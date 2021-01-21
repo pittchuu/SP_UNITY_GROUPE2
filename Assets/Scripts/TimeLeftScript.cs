@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class TimeLeftScript : MonoBehaviour
 {
-    public int totalCount = 120;
+    public int totalCount;
     public Text TimeLeft;
     public string LevelToLoad;
     void Start()

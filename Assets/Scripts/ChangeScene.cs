@@ -8,7 +8,7 @@ public class ChangeScene : MonoBehaviour
 {
     public string LevelToLoad;
     public Button changeSceneButton;
-    public InputField m_PlayerName;
+    public InputField  m_PlayerName;
 
     void Start()
     {

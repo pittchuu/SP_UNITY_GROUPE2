@@ -660,8 +660,8 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Des squelettes emp\xEAchent le portail quantique de se former! Tue les
-    avant la fin du d\xE9compte!!"
+  m_Text: "Des squelettes te retiennent ici par magie et t'emp\xEAchent de te t\xE9l\xE9porter!
+    Tue les avant la fin du d\xE9compte sinon tu mourras!!"
 --- !u!222 &273445020
 CanvasRenderer:
   m_ObjectHideFlags: 0

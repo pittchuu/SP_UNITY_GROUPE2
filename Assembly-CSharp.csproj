@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{05522CBA-1A9C-F3AD-1811-F1CF7158EF5E}</ProjectGuid>
+    <ProjectGuid>{F985B34F-B580-CF13-D938-1003DABF9358}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -65,10 +65,8 @@
     <Compile Include="Assets\Scripts\ScoreScript.cs" />
     <Compile Include="Assets\Scripts\SC_FPSController.cs" />
     <Compile Include="Assets\Scripts\FollowMouse.cs" />
-    <Compile Include="Assets\Scripts\TextScript.cs" />
     <Compile Include="Assets\Scripts\ChangeScene.cs" />
     <Compile Include="Assets\Scripts\TimeLeftScript.cs" />
-    <Compile Include="Assets\Scripts\Example.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Font\avocado_creamy\Avocado Creamy (Read First).txt" />
